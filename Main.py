@@ -1,7 +1,7 @@
 from tkinter import *
 lis = []
 state = ''
-weight = [-1, 1, -1, -1, 2, -1, 0, 1, 0]
+weight = [0, 0, 0, 0, 0, 0, 0, 0, 0]
 out = 0
 x=0
 y=0
